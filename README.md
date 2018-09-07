@@ -1,2 +1,2 @@
 # hello-world
-first repository
+nick here! here to be able to comprehend how data is formulated and manipulated to produce value. i went to college in upstate new york where i majored in business with concentrations in finance and management, and earned a minor in sociology. i'm very interested in people and narrative which is somewhat how i landed on wanting to learn how to produce meaningful insight from data. with my background in finance, i've had a fair amount of exposure to data but mostly through excel. i'm currently taking a data science course specialization through coursera in an effort to understand the complexities of programming.
